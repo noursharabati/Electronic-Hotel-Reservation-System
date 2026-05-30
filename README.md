@@ -1,2 +1,35 @@
-# Electronic-Hotel-Reservation-System
-A comprehensive Electronic Hotel Reservation System developed at Amman Arab University. Streamlines hotel operations with real-time booking, automated invoicing, smart device integration, and performance dashboards. Built using Agile methodology and modeled with UML diagrams.
+# Electronic Hotel Reservation System 🏨
+
+## 📌 Overview
+A comprehensive hotel reservation system developed as part of the **Systems Analysis and Design** course at **Amman Arab University**.  
+The project improves hotel operations by reducing manual errors and enhancing guest satisfaction.
+
+---
+
+## 🎯 Key Features
+- Real-time room booking and availability  
+- Secure online payments and automated invoicing  
+- Smart device integration (digital locks, notifications)  
+- Role-based access for guests, staff, and managers  
+- Performance dashboards and analytics  
+
+---
+
+## ⚙️ Methodology & Modeling
+- Agile Development  
+- UML Diagrams: Use Case, Activity, Sequence, Class  
+
+---
+
+## 👨‍💻 Team
+- Noor Diab Omar Sharabati  
+- Raneem Waddah Mahmoud Toumar  
+- Malak Hussam Mohammed Al-Shalabi  
+- Marwa Ahmad Muheimid Al-Naimat  
+
+**Supervisor:** Dr. Marwan Alsed  
+
+---
+
+## 📜 License
+Academic project – Amman Arab University (2024/2025).
